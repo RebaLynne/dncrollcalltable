@@ -14,7 +14,7 @@ Song List generated using Streamlit!
 """
 
 # Define tabs
-tab1, tab2 = st.tabs(["Table", "Graph"])
+tab1, tab2 = st.tabs(["Table"])
 
 # Streamlit content
 with tab1:
